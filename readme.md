@@ -1,7 +1,18 @@
-<div style="display: flex; flex-direction: row; align-items: center; ">
-  <h4 align="left">👋 Hi there, I'm Roshan P Mathew<br>🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.</h4>
-  <img align="right" height="152" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
-</div>
+<table>
+  <tr>
+    <td>
+      <h4>
+        👋 Hi there, I'm Roshan P Mathew<br>
+        🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>
+        💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>
+        📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.
+      </h4>
+    </td>
+    <td>
+      <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
