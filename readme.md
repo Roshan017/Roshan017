@@ -42,8 +42,8 @@
 ###
 
 <div align="center">
-  Profile Views:
-  <img src="https://profile-counter.glitch.me/Roshan017/count.svg?"  />
+  <p><strong>👁️ Profile Views</strong></p>
+  <img src="https://profile-counter.glitch.me/Roshan017/count.svg?" alt="Profile Views">
 </div>
 
 ###
