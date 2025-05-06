@@ -1,12 +1,12 @@
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td>
-      <h3>
-        👋 Hi there, I'm Roshan P Mathew<br>
-        🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>
-        💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>
-        📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.
-      </h3>
+    <h3 style="font-size: 16px; font-weight: normal;">
+  👋 Hi there, I'm Roshan P Mathew<br>
+  🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>
+  💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>
+  📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.
+</h3>
     </td>
     <td>
       <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
