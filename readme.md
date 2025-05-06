@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi there, I'm Roshan Mathew<br>🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.</h3>
+<h3 align="left">👋 Hi there, I'm Roshan P Mathew<br>🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.</h3>
 
 ###
 
