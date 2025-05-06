@@ -1,11 +1,11 @@
-<h4 align="left">👋 Hi there, I'm Roshan Mathew<br>🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.</h4>
+<h3 align="left">👋 Hi there, I'm Roshan Mathew<br>🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.</h3>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshan017&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Roshan017&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshan017&locale=en&hide_title=true&layout=default%20&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshan017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roshan017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Roshan017&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -13,8 +13,6 @@
 <img align="right" height="152" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
