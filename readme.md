@@ -9,9 +9,13 @@
 </h3>
     </td>
     <td>
-      <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+      <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
     </td>
   </tr>
+  <tr><div align="center">
+  <p><strong>👁️ Profile Views</strong></p>
+  <img src="https://profile-counter.glitch.me/Roshan017/count.svg?" alt="Profile Views">
+</div></tr>
 </table>
 
 # 💻 Tech Stack:
@@ -40,10 +44,5 @@
 <img src="https://raw.githubusercontent.com/Roshan017/Roshan017/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <p><strong>👁️ Profile Views</strong></p>
-  <img src="https://profile-counter.glitch.me/Roshan017/count.svg?" alt="Profile Views">
-</div>
 
 ###
