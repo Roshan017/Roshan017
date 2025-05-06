@@ -9,7 +9,7 @@
       </h3>
     </td>
     <td>
-      <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+      <img align="right" width="200" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
     </td>
   </tr>
 </table>
@@ -45,9 +45,5 @@
 <img src="https://raw.githubusercontent.com/Roshan017/Roshan017/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Roshan017.Roshan017&left_color=steelblue&right_color=black&left_text=Profile%20Views"  />
-</div>
 
 ###
