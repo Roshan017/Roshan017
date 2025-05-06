@@ -9,7 +9,7 @@
 </h3>
     </td>
     <td>
-      <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
+      <img align="right" height="150" width="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
     </td>
   </tr>
 </table>
