@@ -1,49 +1,148 @@
-<table border="0" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td>
-      <h3 style="font-size: 16px; font-weight: normal;">
-        👋 Hi there, I'm Roshan P Mathew<br>
-        🚀 A passionate Full Stack Developer with a knack for building impactful applications using Python, JavaScript, and ReactJS.<br>
-        💡 I enjoy solving real-world problems with code and have experience in machine learning, data analysis, and full-stack web development.<br>
-        📚 BTech graduate in Computer Science & Engineering, always eager to learn and experiment with new technologies.
-      </h3>
-    </td>
-    <td>
-      <img align="right" width="200" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+```
+██████╗  ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔═══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║
+██████╔╝██║   ██║███████╗███████║███████║██╔██╗ ██║
+██╔══██╗██║   ██║╚════██║██╔══██║██╔══██║██║╚██╗██║
+██║  ██║╚██████╔╝███████║██║  ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### Software Engineer — Backend & AI Systems
+#### Python · FastAPI · LangGraph · RAG · Node.js · AWS
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-mathew-841256230/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshanprakashmathew@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## About
+
+I build backend systems and AI-powered applications that work in production — not just demos.
+
+Currently at **Techversant** as an Associate Software Engineer, designing REST APIs, building LLM-powered workflows with LangGraph, and shipping features that are secure, optimized, and observable.
+
+- 🔭 Currently working on production-grade AI infrastructure and RAG systems
+- 🧠 Focused on LLM evaluation, retrieval pipelines, and backend engineering
+- 🌱 Exploring agent frameworks, observability tooling, and scalable AI deployment
+- 📬 Reach me at **roshanprakashmathew@gmail.com**
+
+---
+
+## Featured Projects
+
+### 🛡️ TruthGuard AI — Production RAG System
+> LLMs hallucinate. TruthGuard doesn't let them.
+
+A production-grade Retrieval-Augmented Generation system that grounds every LLM response in verified source documents — making answers traceable, citation-backed, and measurably accurate.
+
+- **Hybrid retrieval** — BGE embeddings + ChromaDB for semantic + dense search
+- **LangGraph pipelines** — structured ingestion, retrieval, and response orchestration
+- **RAGAS evaluation** — faithfulness and answer relevancy scoring
+- **LangFuse observability** — full tracing and monitoring of LLM workflows
+
+[![Repo](https://img.shields.io/badge/GitHub-TruthGuard_AI-181717?style=flat-square&logo=github)](https://github.com/Roshan017/High_grade_RAG)
+
+---
+
+### 🧠 DataSage — NL-to-SQL Engine
+> Plain English in. Validated SQL out. Safely.
+
+An LLM-powered engine that converts natural language queries into validated, injection-safe SQL — deployed on AWS.
+
+- **LangGraph + Gemini** — agent-based reasoning pipelines for query intent parsing
+- **Schema-aware retrieval** — PostgreSQL + vector embeddings for contextual SQL generation
+- **Multi-layer validation** — catches malformed queries and blocks SQL injection before execution
+- **AWS EC2 + CloudFront** — scalable, low-latency production deployment
+
+[![Repo](https://img.shields.io/badge/GitHub-DataSage-181717?style=flat-square&logo=github)](https://github.com/Roshan017)
+
+---
+
+### 🍴 ForkCast — Full Stack Meal Planning Platform
+A full-stack application built with React, FastAPI, and MongoDB. Backend deployed on AWS EC2 with CloudFront CDN.
+
+[![Repo](https://img.shields.io/badge/GitHub-ForkCast-181717?style=flat-square&logo=github)](https://github.com/Roshan017)
+
+---
+
+### 🌐 TribeSpace — Full Stack Social Platform
+Scalable backend architecture for authentication, feeds, and user interaction workflows with secure session handling.
+
+[![Repo](https://img.shields.io/badge/GitHub-TribeSpace-181717?style=flat-square&logo=github)](https://github.com/Roshan017)
+
+---
+
+## Tech Stack
+
+**AI & LLM**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-8A2BE2?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=flat-square)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+|---|---|
+| AWS Cloud Technology Consultant | Amazon Web Services |
+| Generative AI: Prompt Engineering | IBM |
+| Meta Frontend Developer Specialization | Meta |
+| Google Data Analytics | Google |
+| Python Programming | Udemy |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <p><strong>👁️ Profile Views</strong></p>
-  <img src="https://profile-counter.glitch.me/Roshan017/count.svg?" alt="Profile Views">
+
+![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan017&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan017&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
 </div>
 
-# 💻 Tech Stack:
+---
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/el_d_iablo07?utm_source=qr&igsh=MXUydnhheWVmNmtnZQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="roshanprakashmathew@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/roshan-mathew-841256230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="center">
+<sub>Building things that work in production — not just demos.</sub>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roshan017/Roshan017/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
