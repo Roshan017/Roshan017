@@ -14,7 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-mathew-841256230/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roshanprakashmathew@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://roshanmathew.netlify.app/)
 
 </div>
 
@@ -131,18 +131,6 @@ Scalable backend architecture for authentication, feeds, and user interaction wo
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan017&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan017&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
-<div align="center">
 <sub>Building things that work in production — not just demos.</sub>
 </div>
